@@ -1,2 +1,5 @@
 # pranjal-demo
-This is my first git repository
+<br>
+<h>This is my first git repository</h>
+Author- Pranjal Jain
+
