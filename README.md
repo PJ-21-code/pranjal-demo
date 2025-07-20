@@ -2,5 +2,5 @@
 <br>
 This is my first git repository
 <br>
-Author- Pranjal Jain
+Author- Pranjal Jain(student)
 
